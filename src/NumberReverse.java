@@ -30,7 +30,7 @@ public class NumberReverse {
 		int num = 0;
 		
 //		String slist[] = {"3","4","5","6","7","8"};
-		
+		System.out.println("숫자 입력시 띄어쓰기");
 		String text = scn.nextLine();
 		String slist[] = text.split(" ");
 		
